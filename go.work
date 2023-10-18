@@ -1,0 +1,11 @@
+go 1.21.1
+
+use (
+	./api
+	./channels
+	./contexts
+	./goRoutines
+	./mongoapi
+	./mutex
+	./mux
+)
